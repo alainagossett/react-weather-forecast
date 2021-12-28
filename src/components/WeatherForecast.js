@@ -1,3 +1,5 @@
+import React from "react";
+
 function WeatherForecast(props) {
   return (
     <>
